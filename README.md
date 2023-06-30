@@ -8,8 +8,7 @@ All the repositories here as the codebases are made solely by me. The ideas that
 
 ## Tech used
 
-<img  alt="Java" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/
-devicons/devicon/icons/java/java-plain-wordmark.svg" />
+<img  alt="Java" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
 <img  alt="Spring" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img  alt="Android Studio" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img  alt="Kotlin" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
