@@ -2,7 +2,7 @@
 
 Hello! I'm Danix43, a tech savvy, built with an interest in Computer Science and anything related to this field. Over the years, I've come in contact with tehnologies such as Internet Of Things and Embeded Systems (especially Arduino) and Data Structures, to todays focus point, Full Stack Web Development.
 
-All the repositories here as the codebases are made solely by me. The ideas that stand behind them might be from other people, as some of the designs since I suck at making a nice looking UI😂
+All the repositories here as the codebases are made solely by me. The ideas that stand behind them might be from other people, as some of the designs since I suck at making a nice looking UI😂.
 
 ----------------------------------------------------------------------
 
