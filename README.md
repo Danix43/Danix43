@@ -1,6 +1,6 @@
 # 🦉 Danix43
 
-Hello! I'm Danix43, a tech savvy, built with an interest in Computer Science and anything related to this field. Over the years, I've come in contact with tehnologies such as Internet Of Things and Embeded Systems (especially Arduino) and Data Structures.
+Hello! I'm Danix43, built with an interest in Computer Science and anything related to this field. Over the years, I've come in contact with tehnologies such as Internet Of Things and Embeded Systems (especially Arduino) and Data Structures.
 
 ----------------------------------------------------------------------
 
